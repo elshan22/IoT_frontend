@@ -1,0 +1,17 @@
+.App {
+    background-color: #132737;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+.chart{
+    width: 720px ;
+}
+.piechart{
+    width: 240px;
+    height: 300px;
+}
